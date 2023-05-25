@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Car_Sales_Data", "Car_Sales_Data\Car_Sales_Data.dtproj", "{9583884D-4764-48C5-878F-DB625AAEB0A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9583884D-4764-48C5-878F-DB625AAEB0A8}.Development|Default.ActiveCfg = Development
+		{9583884D-4764-48C5-878F-DB625AAEB0A8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFFEB3AD-B300-4442-825C-F9AA34363E5F}
+	EndGlobalSection
+EndGlobal
